@@ -7,3 +7,9 @@ avarage=total/3
 
 print(total)
 print(avarage)
+
+
+
+
+
+
