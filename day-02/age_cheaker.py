@@ -1,8 +1,8 @@
-age=eval(input("Enter Your age:"))
+age = int(input("Enter your age: "))
 
-if age>=18:
+if age >= 18:
     print("Adult")
-elif age<=18 and age <18:
+elif age >= 13:
     print("Teenager")
-else: 
-    print("worng input")
+else:
+    print("Child")
