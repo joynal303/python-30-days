@@ -1,0 +1,26 @@
+[
+    {
+        "Pet Name": "pigeon",
+        "Age": 4,
+        "Color": "red",
+        "Food": "corn"
+    },
+    {
+        "Pet Name": "Parrot",
+        "Age": 1,
+        "Color": "Green",
+        "Food": "Fruit"
+    },
+    {
+        "Pet Name": "parrot",
+        "Age": 3,
+        "Color": "yello",
+        "Food": "corn"
+    },
+    {
+        "Pet Name": "Cokatel",
+        "Age": 1,
+        "Color": "Blue",
+        "Food": "Rice"
+    }
+]

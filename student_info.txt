@@ -1,0 +1,5 @@
+Name: Joynal Abedin
+Age: 26
+Country: Banglasesh
+Skill: Django developer
+Goal: AI Engineer

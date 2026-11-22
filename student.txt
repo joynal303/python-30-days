@@ -1,0 +1,9 @@
+Name: Abedin 
+Age: 28 
+Country: Bangladesh 
+Skill: PythonUniversity: Private University 
+Goal: AI Engineer
+University: Private University
+Goal: AI EngineerHobby: Pigeon Breeding 
+Hobby: Pigeon Breeding 
+Hobby: Pigeon Breeding
