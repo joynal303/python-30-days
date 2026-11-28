@@ -32,8 +32,20 @@ class BankAccount:
     def __init__(self, name, balance):
         self.name = name
         self.__balance = balance
+
+    def deposit(self, deposit):
+        self.__balance = self.__balance + deposit
+
     def show_balance(self):
         print(f"{self.name} balance is: {self.__balance}")
 
+
+
 person1 = BankAccount("Abedin",200000 )
+person1.deposit(50000)
 person1.show_balance()
+print(person1.name) #name Public, তাই বাইরে থেকেও access করা যাবে।
+#self.__balance = balance, balance Private, তাই বাইরে থেকে সরাসরি access করা যাবে না।
+#কিন্তু Class-এর নিজের method show_balance()-এর ভিতর থেকে access করা যাচ্ছে। এটাই Encapsulation-এর মূল ধারণার একটি অংশ।
+
+
